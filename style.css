@@ -96,16 +96,39 @@ h1 {
 }
 
 header {
+  padding: 1%;
+  gap: 1em;
   height: 50px;
   background-color: white;
   width: 100%;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 header img {
   height: 50px;
   width: 4%;
   padding: 0%;
+}
+
+h4 {
+  background-color: white;
+  width: 100px;
+  font-size: 2em;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h5 {
+  background-color: white;
+  width: 100px;
+  font-size: 2em;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h6 {
+  background-color: white;
+  width: 100px;
+  font-size: 2em;
+  font-family: "Times New Roman", Times, serif;
 }
